@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2020/11/15 18:45:48.254,=C:\Users\gabri\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/11/15 18:46:23.848,C:\Users\gabri\Desktop\Orama\TelaInicial.fmx=C:\Users\gabri\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2020/11/15 18:46:23.848,C:\Users\gabri\Desktop\Orama\TelaInicial.pas=C:\Users\gabri\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/11/15 18:46:29.692,C:\Users\gabri\Desktop\Orama\orama.dproj=C:\Users\gabri\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2020/11/15 19:11:04.948,=C:\Users\gabri\Desktop\Orama\Unit2.pas</Transaction>
+    <Transaction>2020/11/15 19:11:36.630,C:\Users\gabri\Desktop\Orama\Cadastro1.fmx=C:\Users\gabri\Desktop\Orama\Unit2.fmx</Transaction>
+    <Transaction>2020/11/15 19:11:36.630,C:\Users\gabri\Desktop\Orama\Cadastro1.pas=C:\Users\gabri\Desktop\Orama\Unit2.pas</Transaction>
+  </Transactions>
+  <ActiveMobileDevice>   <NoProfile iOSSimulator="iPhone5"/>
+  </ActiveMobileDevice>
+</BorlandProject>

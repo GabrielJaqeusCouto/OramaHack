@@ -1,0 +1,327 @@
+object Form3: TForm3
+  Left = 0
+  Top = 0
+  Caption = 'Form3'
+  ClientHeight = 591
+  ClientWidth = 334
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  DesignerMasterStyle = 0
+  object Rectangle1: TRectangle
+    Align = Client
+    Fill.Color = claWhite
+    Size.Width = 334.000000000000000000
+    Size.Height = 591.000000000000000000
+    Size.PlatformDefault = False
+    Stroke.Kind = None
+    object Layout3: TLayout
+      Align = Bottom
+      Position.Y = 515.000000000000000000
+      Size.Width = 334.000000000000000000
+      Size.Height = 76.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 0
+      object Layout1: TLayout
+        Align = Bottom
+        Size.Width = 334.000000000000000000
+        Size.Height = 76.000000000000000000
+        Size.PlatformDefault = False
+        TabOrder = 1
+        object Rectangle6: TRectangle
+          Align = Client
+          Fill.Color = xFF20C3AF
+          Margins.Left = 15.000000000000000000
+          Margins.Right = 15.000000000000000000
+          Margins.Bottom = 25.000000000000000000
+          Size.Width = 304.000000000000000000
+          Size.Height = 51.000000000000000000
+          Size.PlatformDefault = False
+          Stroke.Kind = None
+          object Label1: TLabel
+            Align = Client
+            StyledSettings = []
+            Size.Width = 304.000000000000000000
+            Size.Height = 51.000000000000000000
+            Size.PlatformDefault = False
+            TextSettings.Font.Family = 'Roboto'
+            TextSettings.Font.Size = 15.000000000000000000
+            TextSettings.FontColor = claWhite
+            TextSettings.HorzAlign = Center
+            Text = 'Continuar'
+            OnClick = Label1Click
+          end
+        end
+      end
+      object Label7: TLabel
+        StyledSettings = [Style]
+        Position.X = 24.000000000000000000
+        Position.Y = -464.000000000000000000
+        Size.Width = 201.000000000000000000
+        Size.Height = 65.000000000000000000
+        Size.PlatformDefault = False
+        TextSettings.Font.Family = 'Roboto'
+        TextSettings.Font.Size = 14.000000000000000000
+        TextSettings.FontColor = claDimgray
+        Text = 'Vou precisar de algumas informa'#231#245'es de acesso, para voc'#234
+      end
+      object Label8: TLabel
+        StyledSettings = []
+        Position.X = 58.000000000000000000
+        Position.Y = -427.000000000000000000
+        Size.Width = 57.000000000000000000
+        Size.Height = 25.000000000000000000
+        Size.PlatformDefault = False
+        TextSettings.Font.Family = 'Roboto'
+        TextSettings.Font.Size = 14.000000000000000000
+        TextSettings.Font.StyleExt = {00070000000000000004000000}
+        TextSettings.FontColor = claDimgray
+        Text = 'acessar'
+      end
+      object Label2: TLabel
+        StyledSettings = [Style]
+        Position.X = 111.000000000000000000
+        Position.Y = -427.000000000000000000
+        Size.Width = 81.000000000000000000
+        Size.Height = 25.000000000000000000
+        Size.PlatformDefault = False
+        TextSettings.Font.Family = 'Roboto'
+        TextSettings.Font.Size = 14.000000000000000000
+        TextSettings.FontColor = claDimgray
+        Text = 'no App e no'
+      end
+      object Label3: TLabel
+        StyledSettings = [Style]
+        Position.X = 23.000000000000000000
+        Position.Y = -410.000000000000000000
+        Size.Width = 81.000000000000000000
+        Size.Height = 24.000000000000000000
+        Size.PlatformDefault = False
+        TextSettings.Font.Family = 'Roboto'
+        TextSettings.Font.Size = 14.000000000000000000
+        TextSettings.FontColor = claDimgray
+        Text = 'Site.'
+      end
+      object Image1: TImage
+        MultiResBitmap.Height = 32
+        MultiResBitmap.Width = 32
+        MultiResBitmap = <
+          item
+            Width = 32
+            Height = 32
+            PNG = {
+              89504E470D0A1A0A0000000D4948445200000020000000200806000000737A7A
+              F4000000017352474200AECE1CE90000000467414D410000B18F0BFC61050000
+              0345494441545847ED964B52DB401086BB47A42A4BE704724E106799AAF8C10D
+              EC98ACF10D8013D89C003801661D88E104183BFB3837904E10B2B7A7F3F77810
+              582F0B366CF8AA843C0FA65BFD1C7AE3B561FFAE4C783BA9D1CEB24196EBF877
+              3C8E7B32761137BF4FFDB832951508E73F3A4CE6003F3B6469418622B114BB45
+              A61A0B7D22633A44762C642FAA2AB355017C719D77EC09093544CC19848FE3DD
+              DEBD5FDE40F742B10EB31DE2E4A92CCD31F6467E39975205706003C227227443
+              2B332A129C47389F8C98ECBEB0E9C55F7B0B3F9DA15001273C8070324771AB77
+              EDA79F45389B74618D9332257215F066BF85C90B85634F8DDE534D7FC75F8ACD
+              1CDE4D066CEC10EED8CD7347AE02F5F9D5B9E0DCB8D91FF9A904178CD60C5DC0
+              895D1FC8A64ED64E85E52C6EED65140E6757A7CC1446CD7ECF4F2518FF4E80EF
+              703075F284D767D7431673AE8264491FA256FFA37B9A3D2481B960E293FAECE7
+              D06F7F04F1A341ACCAFB99848C022E70C41CFB6142787739C0490359C194F8CA
+              7440C6EDDE58D788649016A47B35837C1A6F9051005303A45A36878360E18497
+              A495AE09C991081FFAA94790BEF8DB71B1F3840D059CF9E1CB3C211AC565C213
+              56416484433F4A502BB802A655F4099B16B02836447FFCE845F00EB7716A6ECA
+              5946E57425FC91940BAC9AA772B149E37C2FAB43AD807E6A03442A2C58AAC0F3
+              519F6A80D6EFAE6E5D86AC5074AAB8CA935240223694F15F11BE60FD46FAED23
+              0D6F20FC338417965D90B1F0A602268810071B262AC558A4264DA3767F176978
+              EA02AD04543D744C5BACA09A1355F06F3A55CAA8BA57AD559FA3B5A4D8B080FF
+              82A9FFB24A6CFBEA04B37277053F4AC804217C79863838788E15AAC086877A51
+              F1C3848C0271B3A75570C1EF245BD35368F4AF4B7439DA43F09AE6DD92320A28
+              C8E323B2D20D67975D3F954BDCDE1B930D4AEF0AEB33D0438A6A837F67087FE1
+              42227A1B12DC09B22DB60A2A5C3BA4AF0DD52F240F3825AC9D60DB386A7DCBFD
+              823C347E3850174AB74CB852AA80A2E923811D19A6B6583986C9739B95E20217
+              19A4418CE1425D59B4F781AD0A3CA09D52C40E0C9B7DED981430DAB3FCD33557
+              3DB5803135F04C35937C306FA5B2024F59B76D085B372F2091ABA24BD296FDE2
+              66F6C62B40F41F4607985A65EF89330000000049454E44AE426082}
+            FileName = 'C:\Users\gabri\Desktop\Orama\assets\DuvidaIcone.png'
+          end>
+        Position.X = 272.000000000000000000
+        Position.Y = -445.000000000000000000
+        Size.Width = 33.000000000000000000
+        Size.Height = 33.000000000000000000
+        Size.PlatformDefault = False
+      end
+      object Rectangle3: TRectangle
+        Opacity = 0.200000002980232200
+        Position.X = 32.000000000000000000
+        Position.Y = -342.000000000000000000
+        Size.Width = 265.000000000000000000
+        Size.Height = 50.000000000000000000
+        Size.PlatformDefault = False
+        Stroke.Kind = None
+        object Edit1: TEdit
+          Touch.InteractiveGestures = [LongTap, DoubleTap]
+          Align = Client
+          StyleLookup = 'Edit1Style1'
+          TabOrder = 0
+          TextSettings.Font.Family = 'Roboto'
+          TextSettings.Font.Size = 14.000000000000000000
+          Margins.Left = 10.000000000000000000
+          Margins.Top = 10.000000000000000000
+          Margins.Right = 10.000000000000000000
+          Margins.Bottom = 10.000000000000000000
+          Size.Width = 245.000000000000000000
+          Size.Height = 30.000000000000000000
+          Size.PlatformDefault = False
+          TextPrompt = 'Email'
+          StyledSettings = [Style]
+        end
+      end
+      object Rectangle2: TRectangle
+        Opacity = 0.200000002980232200
+        Position.X = 32.000000000000000000
+        Position.Y = -270.000000000000000000
+        Size.Width = 265.000000000000000000
+        Size.Height = 50.000000000000000000
+        Size.PlatformDefault = False
+        Stroke.Kind = None
+        object Edit2: TEdit
+          Touch.InteractiveGestures = [LongTap, DoubleTap]
+          Align = Client
+          StyleLookup = 'Edit1Style1'
+          TabOrder = 0
+          TextSettings.Font.Family = 'Roboto'
+          TextSettings.Font.Size = 14.000000000000000000
+          Margins.Left = 10.000000000000000000
+          Margins.Top = 10.000000000000000000
+          Margins.Right = 10.000000000000000000
+          Margins.Bottom = 10.000000000000000000
+          Size.Width = 245.000000000000000000
+          Size.Height = 30.000000000000000000
+          Size.PlatformDefault = False
+          TextPrompt = 'Senha'
+          StyledSettings = [Style]
+        end
+      end
+      object Rectangle4: TRectangle
+        Opacity = 0.200000002980232200
+        Position.X = 32.000000000000000000
+        Position.Y = -190.000000000000000000
+        Size.Width = 265.000000000000000000
+        Size.Height = 50.000000000000000000
+        Size.PlatformDefault = False
+        Stroke.Kind = None
+        object Edit3: TEdit
+          Touch.InteractiveGestures = [LongTap, DoubleTap]
+          Align = Client
+          StyleLookup = 'Edit1Style1'
+          TabOrder = 0
+          TextSettings.Font.Family = 'Roboto'
+          TextSettings.Font.Size = 14.000000000000000000
+          Margins.Left = 10.000000000000000000
+          Margins.Top = 10.000000000000000000
+          Margins.Right = 10.000000000000000000
+          Margins.Bottom = 10.000000000000000000
+          Size.Width = 245.000000000000000000
+          Size.Height = 30.000000000000000000
+          Size.PlatformDefault = False
+          TextPrompt = 'Repita sua senha'
+          StyledSettings = [Style]
+        end
+      end
+    end
+    object Image3: TImage
+      MultiResBitmap.Height = 24
+      MultiResBitmap.Width = 24
+      MultiResBitmap = <
+        item
+          Width = 24
+          Height = 24
+          PNG = {
+            89504E470D0A1A0A0000000D4948445200000018000000180806000000E0773D
+            F8000000017352474200AECE1CE90000000467414D410000B18F0BFC61050000
+            009E49444154484BED92E109802010854D1AA44669A2688088688068A246C941
+            22EA59469906076711F4FD3951F81E9C4FFCBC4EB44D2F55D526712C7B9CCB32
+            4FF52501B94D270779B2DED0F1065872358E53A61F883857E492D775A1F42391
+            4B00A71C9C02B8E5600F0821077B40D374C33220E740994ADFD69483E7560482
+            7EB221684D0D9C21CE00C015E26D1164902E47484D1899DB9A5A213F9F448819
+            215D7116BFE00CD90000000049454E44AE426082}
+          FileName = 'C:\Users\gabri\Desktop\Orama\assets\VoltarIcone.png'
+        end>
+      Position.X = 16.000000000000000000
+      Position.Y = 8.000000000000000000
+      Size.Width = 25.000000000000000000
+      Size.Height = 25.000000000000000000
+      Size.PlatformDefault = False
+      OnClick = Image3Click
+    end
+  end
+  object Image2: TImage
+    MultiResBitmap.Height = 24
+    MultiResBitmap.Width = 24
+    MultiResBitmap = <
+      item
+        Width = 24
+        Height = 24
+        PNG = {
+          89504E470D0A1A0A0000000D4948445200000018000000180806000000E0773D
+          F8000000017352474200AECE1CE90000000467414D410000B18F0BFC61050000
+          022949444154484BDD54D155023110DC05FDB7043B50FF45A50248056205D281
+          D201540056705201FAF45FED403BF05FBD75E692DCE5E440DED31F9DF72097DC
+          DE4E767612F93FC8B2C57E96DDEF87E9AFA11546605B542DFB6D120D63012627
+          89993AE70E1FC372B12EF241E25DBF22CF22EDC73466156A0444452267188F11
+          3214B1578C3766F90B63545B7B580399EE603A367BBF72AE8B98652C11108164
+          8147249589739D1BFFA60EF40D24ED4B553DE6869AE2921E5460E990A98B47C8
+          A28D3B23B0EB67E78E06A1DAE97C7E771A5E95F8D2830512B677F1D1B59F573D
+          812490230F06C8AF99DC3F7BB01AD5F602B1B54A4A0204ECA86E3DE011A30C7B
+          BDCE955F8F729960A7C51ADEF730CCFAFDA311E711597677827753F4E420F624
+          91A835C01F34D72E128D63B9955C94AA35437543B30FCE874CC89808EEDCCC6E
+          11076378940470C639984731610389A35CAC88F2C051A8264A964267CC1526B5
+          2643E3ADC2E79B9070AD19EFE80D6DED5112604713E857BAE03B12EC127DC80B
+          33A4401F2F20D3244CD30AF231684E525DD7911401B2CD8356C27F6BF8E5B3B0
+          5411B0EBF8107E96A93F401EDF5512E5F236A58368D3EA54375C15B703948F32
+          EB2733DA1549BE5A18E7241FF96F942629774FACB82AE8679BE2356C4767F943
+          B58604074C10D781CC753412103C787015AA315A0E252BADF9849DE2A2933E12
+          7663855525F55B98584990820996AFEBE2BA28B55E45B211C1A66822490FDA8F
+          11DD25F21656FE3E443E010BBE7A6240C705180000000049454E44AE426082}
+        FileName = 'C:\Users\gabri\Desktop\Orama\assets\olhoIcone.png'
+      end>
+    Position.X = 258.000000000000000000
+    Position.Y = 256.000000000000000000
+    Size.Width = 26.000000000000000000
+    Size.Height = 26.000000000000000000
+    Size.PlatformDefault = False
+  end
+  object Image4: TImage
+    MultiResBitmap.Height = 24
+    MultiResBitmap.Width = 24
+    MultiResBitmap = <
+      item
+        Width = 24
+        Height = 24
+        PNG = {
+          89504E470D0A1A0A0000000D4948445200000018000000180806000000E0773D
+          F8000000017352474200AECE1CE90000000467414D410000B18F0BFC61050000
+          022949444154484BDD54D155023110DC05FDB7043B50FF45A50248056205D281
+          D201540056705201FAF45FED403BF05FBD75E692DCE5E440DED31F9DF72097DC
+          DE4E767612F93FC8B2C57E96DDEF87E9AFA11546605B542DFB6D120D63012627
+          89993AE70E1FC372B12EF241E25DBF22CF22EDC73466156A0444452267188F11
+          3214B1578C3766F90B63545B7B580399EE603A367BBF72AE8B98652C11108164
+          8147249589739D1BFFA60EF40D24ED4B553DE6869AE2921E5460E990A98B47C8
+          A28D3B23B0EB67E78E06A1DAE97C7E771A5E95F8D2830512B677F1D1B59F573D
+          812490230F06C8AF99DC3F7BB01AD5F602B1B54A4A0204ECA86E3DE011A30C7B
+          BDCE955F8F729960A7C51ADEF730CCFAFDA311E711597677827753F4E420F624
+          91A835C01F34D72E128D63B9955C94AA35437543B30FCE874CC89808EEDCCC6E
+          11076378940470C639984731610389A35CAC88F2C051A8264A964267CC1526B5
+          2643E3ADC2E79B9070AD19EFE80D6DED5112604713E857BAE03B12EC127DC80B
+          33A4401F2F20D3244CD30AF231684E525DD7911401B2CD8356C27F6BF8E5B3B0
+          5411B0EBF8107E96A93F401EDF5512E5F236A58368D3EA54375C15B703948F32
+          EB2733DA1549BE5A18E7241FF96F942629774FACB82AE8679BE2356C4767F943
+          B58604074C10D781CC753412103C787015AA315A0E252BADF9849DE2A2933E12
+          7663855525F55B98584990820996AFEBE2BA28B55E45B211C1A66822490FDA8F
+          11DD25F21656FE3E443E010BBE7A6240C705180000000049454E44AE426082}
+        FileName = 'C:\Users\gabri\Desktop\Orama\assets\olhoIcone.png'
+      end>
+    Position.X = 258.000000000000000000
+    Position.Y = 337.000000000000000000
+    Size.Width = 26.000000000000000000
+    Size.Height = 26.000000000000000000
+    Size.PlatformDefault = False
+  end
+end

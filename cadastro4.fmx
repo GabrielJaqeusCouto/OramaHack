@@ -1,0 +1,319 @@
+object Form5: TForm5
+  Left = 0
+  Top = 0
+  Caption = 'Form5'
+  ClientHeight = 591
+  ClientWidth = 334
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  DesignerMasterStyle = 0
+  object Rectangle1: TRectangle
+    Align = Client
+    Fill.Color = claWhite
+    Size.Width = 334.000000000000000000
+    Size.Height = 591.000000000000000000
+    Size.PlatformDefault = False
+    Stroke.Kind = None
+    object Layout3: TLayout
+      Align = Bottom
+      Position.Y = 515.000000000000000000
+      Size.Width = 334.000000000000000000
+      Size.Height = 76.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 0
+      object Layout1: TLayout
+        Align = Bottom
+        Size.Width = 334.000000000000000000
+        Size.Height = 76.000000000000000000
+        Size.PlatformDefault = False
+        TabOrder = 1
+        object Rectangle6: TRectangle
+          Align = Client
+          Fill.Color = xFF20C3AF
+          Margins.Left = 15.000000000000000000
+          Margins.Right = 15.000000000000000000
+          Margins.Bottom = 25.000000000000000000
+          Size.Width = 304.000000000000000000
+          Size.Height = 51.000000000000000000
+          Size.PlatformDefault = False
+          Stroke.Kind = None
+          object Label1: TLabel
+            Align = Client
+            StyledSettings = []
+            Size.Width = 304.000000000000000000
+            Size.Height = 51.000000000000000000
+            Size.PlatformDefault = False
+            TextSettings.Font.Family = 'Roboto'
+            TextSettings.Font.Size = 15.000000000000000000
+            TextSettings.FontColor = claWhite
+            TextSettings.HorzAlign = Center
+            Text = 'Continuar'
+            OnClick = Label1Click
+          end
+        end
+      end
+      object Label7: TLabel
+        StyledSettings = [Style]
+        Position.X = 24.000000000000000000
+        Position.Y = -464.000000000000000000
+        Size.Width = 201.000000000000000000
+        Size.Height = 49.000000000000000000
+        Size.PlatformDefault = False
+        TextSettings.Font.Family = 'Roboto'
+        TextSettings.Font.Size = 14.000000000000000000
+        TextSettings.FontColor = claDimgray
+        Text = 'Vou precisar de algumas informa'#231#245'es para'
+      end
+      object Label8: TLabel
+        StyledSettings = []
+        Position.X = 138.000000000000000000
+        Position.Y = -443.000000000000000000
+        Size.Width = 103.000000000000000000
+        Size.Height = 25.000000000000000000
+        Size.PlatformDefault = False
+        TextSettings.Font.Family = 'Roboto'
+        TextSettings.Font.Size = 14.000000000000000000
+        TextSettings.Font.StyleExt = {00070000000000000004000000}
+        TextSettings.FontColor = claDimgray
+        Text = 'continuar o'
+      end
+      object Image1: TImage
+        MultiResBitmap.Height = 32
+        MultiResBitmap.Width = 32
+        MultiResBitmap = <
+          item
+            Width = 32
+            Height = 32
+            PNG = {
+              89504E470D0A1A0A0000000D4948445200000020000000200806000000737A7A
+              F4000000017352474200AECE1CE90000000467414D410000B18F0BFC61050000
+              034F494441545847ED964B52DB401086BB679CAA2C9D134839419C65AAE20737
+              B00259DB37009FC0E604C00930EB400C27C0D8D9C7B981748290BD359DEED120
+              D0D3820D1BBE2A9798D1A0FEA7A71F036FBC36E89E8DF16E176D686D3B60D0E7
+              7FE79FE51E94D944DDEF4B376E4C6301DEFAC700411D02D0808D6F4041480622
+              FB12A18D049F40A901809913988BA662760AE01DFBD8322740D421D26760601E
+              ED05F7EE750659CBC20688F1141097B455C7BC3674AF4BA915C01FEC602B5E10
+              E10DC46A5665B80C6FBD9821C423421D445F838D9B2E5029C01AD76C1CF424EA
+              05D76EFA5978ABC590BD715227A25440E2F6F8965D5E699CD7B4E13DB4E5EFE8
+              4BB59BBDBBC518553CA5ADDE2B3B8E5201FEFAEA9CF8BB51777FE6A6526C301A
+              35B5014771F241D43E18B324A4B3A8775010ECADAE4E11C10BBBFB819B4A51EE
+              99C267C71FA64199717F753D45C27331445BF810F60E3EDA5F37E0245017BC9B
+              137FF573EA963FC2F123412CE2DD4C4A41008219B1EB8FDD30C5BBBB1C036CC7
+              14B32B7997F9808CFAC15CDE711A8EF38664AD645092C6590A02786ACCA956CC
+              61AD37D6784D5AC93B3EBA0967CD919B7A84D3576A888D9D27640458F7F35996
+              199128AE339E12EB5011786E94225EB0054CAAE813B21E30D0E11DFC71A31781
+              2DEC8362432518E4CA694BF823B92330E29EC6C5268F3D7BDA1E490574531938
+              52D983B5029E8F9CA904A87F77756B3324E6A2D3E4A81C390114A22A9E5F15AE
+              60FD46C011A7E10D1BFFCCC62BCB2E53F0705680D221C741C645B528C3A989CB
+              B0BFBFC769786A03AD06AE13DC314DB54071A7BFBEFC9B4F953A9AAE156FF96B
+              6E2D39321E487680CB6467CDD8B5EB1415DBBB821BA5148290CFF20C151D3EC7
+              0B4DE0D89ACA45C50D530A02A26EC0551037F88E8A353D87447F52A2EB911E22
+              9E2DBB251504089CC713AE88436F75397453A544FD8339185D7B5748BEC13DA4
+              AA36B86701EF175F48486E43C07782628B6D8218970EE96A43F30BC903568489
+              17ECA879D8FB56BA8332247E50CB119A619D71A1568020E943DACC14529F6FC1
+              C7ECF2D26625D8C0E50C9220963892A3AC5AFBC04E010F48A7243263856A241D
+              13341B88E99FBCB3D5530A1852C7DE8639939260DE4D63014F49DA36705BB5CD
+              8BA1D056D12D48CB7E71337BE31500F80FAE049E5AD8454A920000000049454E
+              44AE426082}
+            FileName = 'C:\Users\gabri\Desktop\Orama\assets\DuvidaIcone.png'
+          end>
+        Position.X = 272.000000000000000000
+        Position.Y = -453.000000000000000000
+        Size.Width = 33.000000000000000000
+        Size.Height = 33.000000000000000000
+        Size.PlatformDefault = False
+      end
+      object Rectangle3: TRectangle
+        Opacity = 0.200000002980232200
+        Position.X = 32.000000000000000000
+        Position.Y = -390.000000000000000000
+        Size.Width = 265.000000000000000000
+        Size.Height = 50.000000000000000000
+        Size.PlatformDefault = False
+        Stroke.Kind = None
+        object Edit1: TEdit
+          Touch.InteractiveGestures = [LongTap, DoubleTap]
+          Align = Client
+          StyleLookup = 'Edit1Style1'
+          TabOrder = 0
+          TextSettings.Font.Family = 'Roboto'
+          TextSettings.Font.Size = 14.000000000000000000
+          Margins.Left = 10.000000000000000000
+          Margins.Top = 10.000000000000000000
+          Margins.Right = 10.000000000000000000
+          Margins.Bottom = 10.000000000000000000
+          Size.Width = 245.000000000000000000
+          Size.Height = 30.000000000000000000
+          Size.PlatformDefault = False
+          TextPrompt = 'Nome da sua m'#227'e'
+          StyledSettings = [Style]
+        end
+      end
+      object Rectangle2: TRectangle
+        Opacity = 0.200000002980232200
+        Position.X = 32.000000000000000000
+        Position.Y = -294.000000000000000000
+        Size.Width = 265.000000000000000000
+        Size.Height = 50.000000000000000000
+        Size.PlatformDefault = False
+        Stroke.Kind = None
+        object Edit2: TEdit
+          Touch.InteractiveGestures = [LongTap, DoubleTap]
+          Align = Client
+          StyleLookup = 'Edit1Style1'
+          TabOrder = 0
+          TextSettings.Font.Family = 'Roboto'
+          TextSettings.Font.Size = 14.000000000000000000
+          Margins.Left = 10.000000000000000000
+          Margins.Top = 10.000000000000000000
+          Margins.Right = 10.000000000000000000
+          Margins.Bottom = 10.000000000000000000
+          Size.Width = 245.000000000000000000
+          Size.Height = 30.000000000000000000
+          Size.PlatformDefault = False
+          TextPrompt = 'Estado civil'
+          StyledSettings = [Style]
+        end
+      end
+      object Rectangle4: TRectangle
+        Opacity = 0.200000002980232200
+        Position.X = 32.000000000000000000
+        Position.Y = -230.000000000000000000
+        Size.Width = 265.000000000000000000
+        Size.Height = 50.000000000000000000
+        Size.PlatformDefault = False
+        Stroke.Kind = None
+        object Edit3: TEdit
+          Touch.InteractiveGestures = [LongTap, DoubleTap]
+          Align = Client
+          StyleLookup = 'Edit1Style1'
+          TabOrder = 0
+          TextSettings.Font.Family = 'Roboto'
+          TextSettings.Font.Size = 14.000000000000000000
+          Margins.Left = 10.000000000000000000
+          Margins.Top = 10.000000000000000000
+          Margins.Right = 10.000000000000000000
+          Margins.Bottom = 10.000000000000000000
+          Size.Width = 245.000000000000000000
+          Size.Height = 30.000000000000000000
+          Size.PlatformDefault = False
+          TextPrompt = 'Nacionalidade'
+          StyledSettings = [Style]
+        end
+      end
+      object Label2: TLabel
+        StyledSettings = []
+        Position.X = 22.000000000000000000
+        Position.Y = -427.000000000000000000
+        Size.Width = 103.000000000000000000
+        Size.Height = 25.000000000000000000
+        Size.PlatformDefault = False
+        TextSettings.Font.Family = 'Roboto'
+        TextSettings.Font.Size = 14.000000000000000000
+        TextSettings.Font.StyleExt = {00070000000000000004000000}
+        TextSettings.FontColor = claDimgray
+        Text = 'cadastro'
+      end
+      object Label3: TLabel
+        StyledSettings = [Style]
+        Position.X = 32.000000000000000000
+        Position.Y = -344.000000000000000000
+        Size.Width = 273.000000000000000000
+        Size.Height = 33.000000000000000000
+        Size.PlatformDefault = False
+        TextSettings.Font.Family = 'Roboto'
+        TextSettings.FontColor = claDimgray
+        Text = 'Como est'#225' escrito no'
+      end
+      object Label4: TLabel
+        StyledSettings = []
+        Position.X = 150.000000000000000000
+        Position.Y = -340.000000000000000000
+        Size.Width = 103.000000000000000000
+        Size.Height = 25.000000000000000000
+        Size.PlatformDefault = False
+        TextSettings.Font.Family = 'Roboto'
+        TextSettings.Font.StyleExt = {00070000000000000004000000}
+        TextSettings.FontColor = claDimgray
+        Text = 'seu documento'
+      end
+      object Rectangle5: TRectangle
+        Opacity = 0.200000002980232200
+        Position.X = 32.000000000000000000
+        Position.Y = -166.000000000000000000
+        Size.Width = 265.000000000000000000
+        Size.Height = 50.000000000000000000
+        Size.PlatformDefault = False
+        Stroke.Kind = None
+        object Edit4: TEdit
+          Touch.InteractiveGestures = [LongTap, DoubleTap]
+          Align = Client
+          StyleLookup = 'Edit1Style1'
+          TabOrder = 0
+          TextSettings.Font.Family = 'Roboto'
+          TextSettings.Font.Size = 14.000000000000000000
+          Margins.Left = 10.000000000000000000
+          Margins.Top = 10.000000000000000000
+          Margins.Right = 10.000000000000000000
+          Margins.Bottom = 10.000000000000000000
+          Size.Width = 245.000000000000000000
+          Size.Height = 30.000000000000000000
+          Size.PlatformDefault = False
+          TextPrompt = 'Estado onde nasceu'
+          StyledSettings = [Style]
+        end
+      end
+      object Rectangle7: TRectangle
+        Opacity = 0.200000002980232200
+        Position.X = 32.000000000000000000
+        Position.Y = -102.000000000000000000
+        Size.Width = 265.000000000000000000
+        Size.Height = 50.000000000000000000
+        Size.PlatformDefault = False
+        Stroke.Kind = None
+        object Edit5: TEdit
+          Touch.InteractiveGestures = [LongTap, DoubleTap]
+          Align = Client
+          StyleLookup = 'Edit1Style1'
+          TabOrder = 0
+          TextSettings.Font.Family = 'Roboto'
+          TextSettings.Font.Size = 14.000000000000000000
+          Margins.Left = 10.000000000000000000
+          Margins.Top = 10.000000000000000000
+          Margins.Right = 10.000000000000000000
+          Margins.Bottom = 10.000000000000000000
+          Size.Width = 245.000000000000000000
+          Size.Height = 30.000000000000000000
+          Size.PlatformDefault = False
+          TextPrompt = 'Cidade onde nasceu'
+          StyledSettings = [Style]
+        end
+      end
+    end
+    object Image3: TImage
+      MultiResBitmap.Height = 24
+      MultiResBitmap.Width = 24
+      MultiResBitmap = <
+        item
+          Width = 24
+          Height = 24
+          PNG = {
+            89504E470D0A1A0A0000000D4948445200000018000000180806000000E0773D
+            F8000000017352474200AECE1CE90000000467414D410000B18F0BFC61050000
+            009E49444154484BED92E109802010854D1AA44669A2688088688068A246C941
+            22EA59469906076711F4FD3951F81E9C4FFCBC4EB44D2F55D526712C7B9CCB32
+            4FF52501B94D270779B2DED0F1065872358E53A61F883857E492D775A1F42391
+            4B00A71C9C02B8E5600F0821077B40D374C33220E740994ADFD69483E7560482
+            7EB221684D0D9C21CE00C015E26D1164902E47484D1899DB9A5A213F9F448819
+            215D7116BFE00CD90000000049454E44AE426082}
+          FileName = 'C:\Users\gabri\Desktop\Orama\assets\VoltarIcone.png'
+        end>
+      Position.X = 16.000000000000000000
+      Position.Y = 8.000000000000000000
+      Size.Width = 25.000000000000000000
+      Size.Height = 25.000000000000000000
+      Size.PlatformDefault = False
+    end
+  end
+end
